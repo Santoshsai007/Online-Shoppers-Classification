@@ -90,7 +90,7 @@ All metrics below were calculated on the same stratified 20% held-out test split
 
 ## 5. GitHub repository link
 
-https://github.com/Santoshsai007/Online-Shoppers-Classification/blob/main/README.md
+https://github.com/Santoshsai007/Online-Shoppers-Classification/blob/main
 
 ## 6. Streamlit application
 
